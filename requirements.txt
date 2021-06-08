@@ -1,0 +1,4 @@
+deepspeech==0.8.2
+nemo_toolkit==1.0.0rc1
+numpy==1.19.5
+nemo==3.10.0
